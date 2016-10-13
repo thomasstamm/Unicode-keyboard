@@ -1,8 +1,5 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
+
 package TablesGUI;
 
 import TablesLaunch.Main;
@@ -21,10 +18,9 @@ import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 
 /**
- *
  * @author Thomas
  */
-public class IOManager_Modified_UTF8 {
+public class IOManager_SaveFile {
     /**
      * There are currently 2 values: Mode = "UTF16" and Mode = "Modified UTF8"
      * The default value is set to "UTF16".
